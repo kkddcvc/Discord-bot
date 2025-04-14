@@ -1,1 +1,1 @@
-Create a Discord bot on discord developer portal, then take the token and bot it in "DISCORD_TOKEN"
+Create a Discord bot in the Discord Developer Portal, then copy the token and paste it into the "DISCORD_TOKEN" environment variable.
